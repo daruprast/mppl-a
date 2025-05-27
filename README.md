@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+</p>
+
 # MPPL Kelas A
 Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Perangkat Lunak Kelas A
 
