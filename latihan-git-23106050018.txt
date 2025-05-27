@@ -1,0 +1,25 @@
+Nama: Aliyyah Nasywa Ramadhani Sangadji
+NIM: 23106050018
+
+Tugas
+1. sebutkan kelebihan metode agile dibandingkan dengan metode pengembangan lainnya
+jawaban:
+- fleksibel terhadap perubahan, yaitu Cocok untuk proyek yang kebutuhannya sering berubah atau belum sepenuhnya jelas di awal
+- Pengembangan bertahap (Iteratif), yaitu dengan membagi proyek menjadi sprint atau iterasi pendek(1-4 minggu)
+- mendeteksi dan memperbaiki bug lebih cepat, yaitu Karena ada pengujian di setiap sprint, bug bisa ditemukan dan diperbaiki lebih awal
+- berkolaborasi dengan klien secara aktif dengan memberikan feedback rutin agar sesuai ekspetasi pengguna
+- Fokus pada nilai bisnis, yaitu Fitur yang paling penting dan bernilai tinggi dikerjakan lebih dulu
+
+2. apa tugas seorang scrum master dalam framework scrum
+jawaban: 
+Scrum Master adalah fasilitator yang memastikan tim menjalankan Scrum dengan benar, menghilangkan hambatan, dan membantu tim bekerja secara efektif dan kolaboratif
+
+3. Apa yang dimaksud dengan WIP(Work In Progress) didalam Kanban
+jawaban:
+WIP(Work In Progress) didalam Kanban adalah batas jumlah pekerjaan yang sedang dikerjakan pada satu waktu untuk menjaga fokus tim dan meningkatkan efisiensi
+
+4. Sebutkan dan Jelaskan jenis version control yang digunakan dalam pengembangan perangkat lunak
+jawaban: 
+- Local Version Control: Menyimpan revisi file di komputer lokal, contohnya RCS, cocok untuk proyek individu tetapi rawan kehilangan data.
+- Centralized Version Control (CVCS): Menggunakan satu server pusat untuk menyimpan semua versi, contohnya Subversion (SVN), memungkinkan kolaborasi tetapi tergantung pada koneksi ke server.
+- Distributed Version Control (DVCS): Setiap pengembang memiliki salinan penuh repositori, contohnya Git dan Mercurial, lebih fleksibel, mendukung kerja offline, dan aman terhadap kerusakan server pusat.
