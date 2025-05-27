@@ -1,2 +1,31 @@
 Nama : Muhammad Hanif Machdi
 NIM  : 23106050025
+MatKul : Metode Pengembangan Perangkat Lunak (A)
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya
+Jawab:
+- Fleksibel terhadap perubahan  : Agile memungkinkan perubahan kebutuhan di tengah proses pengembangan.
+- Kolaboratif dan komunikatif   : Melibatkan klien dan tim secara aktif melalui meeting rutin seperti daily stand-up dan sprint review.
+- Perilisan lebih cepat         : Produk dikembangkan dalam iterasi (sprint) yang memungkinkan pengiriman fitur secara bertahap.
+- Peningkatan kualitas produk   : Umpan balik yang cepat dan berkelanjutan membantu mengidentifikasi dan memperbaiki masalah lebih awal.
+- Transparansi proses           : Stakeholder dapat melihat kemajuan proyek secara langsung dan berkala.
+
+2. Apa tugas seorang scrum master dalam framework scrum
+Jawab:
+- Memfasilitasi proses Scrum                        : Memimpin daily stand-up, sprint planning, sprint review, dan sprint retrospective.
+- Menyelesaikan hambatan                            : Membantu tim mengatasi rintangan yang mengganggu produktivitas.
+- Melindungi tim dari gangguan eksternal            : Agar tim bisa fokus bekerja dalam sprint.
+- Mengedukasi tim dan organisasi                    : Tentang cara kerja Scrum agar semua pihak memahami dan mendukung proses.
+- Mendorong kolaborasi dan perbaikan berkelanjutan  : Membantu tim menjadi lebih efektif dari waktu ke waktu.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+Jawab:
+WIP (Work In Progress) adalah jumlah pekerjaan atau tugas yang sedang dikerjakan pada suatu waktu dalam papan Kanban. Tujuan dari pembatasan WIP untuk meningkatkan fokus tim, mengurangi waktu siklus, mempermudah mengidentifikasi hambatan, dan meningkatkan efisiensi.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak
+Jawab:
+Version Control System (VCS) adalah sistem yang digunakan untuk mengelola perubahan kode sumber. Jenis-jenis VCS yang umum digunakan:
+- Centralized Version Control System (CVCS):
+  Semua versi disimpan di server pusat, dan pengembang bekerja dengan men-download dan meng-upload perubahan (contoh: Subversion/SVN).
+- Distributed Version Control System (DVCS):
+  Setiap pengembang memiliki salinan lengkap dari repositori, termasuk histori perubahan (contoh: Git).
