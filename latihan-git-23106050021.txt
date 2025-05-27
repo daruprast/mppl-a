@@ -1,2 +1,27 @@
 Nama : Ara Rosalia Safitri
 NIM : 23106050021
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkar lunak lainnya,
+-Responsif terhadap perubahan: Agile memungkinkan perubahan kebutuhan di tengah proyek tanpa mengganggu keseluruhan proses.
+-Iteratif dan inkremental: Pengembangan dilakukan dalam siklus pendek (sprint), sehingga hasil dapat langsung diuji dan dievaluasi.
+-Keterlibatan klien lebih tinggi: Pelanggan terlibat langsung dalam proses pengembangan melalui feedback rutin.
+-Kualitas produk lebih terjaga: Testing dilakukan setiap iterasi, bukan hanya di akhir.
+-Tim lebih kolaboratif dan komunikatif: Agile mendorong komunikasi terus-menerus antar anggota tim dan stakeholder.
+
+2. Apa tugas seorang scrum master datam framework scrum
+-Membantu tim menjalankan praktik Scrum sesuai aturan dan prinsipnya.
+-Menghilangkan hambatan (impediments) yang dapat mengganggu kerja tim.
+-Memfasilitasi acara Scrum seperti sprint planning, daily scrum, sprint review, dan sprint retrospective.
+-Menjaga tim agar tetap fokus dan terlindungi dari gangguan eksternal.
+-Memberikan edukasi mengenai Scrum kepada anggota tim dan pihak terkait di organisasi.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+WIP atau Work In Progress adalah jumlah pekerjaan yang sedang dikerjakan dalam suatu waktu di dalam sistem Kanban. Tujuan dari pengaturan WIP adalah untuk membatasi jumlah pekerjaan yang aktif agar tim dapat fokus menyelesaikan tugas satu per satu, bukan mengerjakan terlalu banyak hal sekaligus. 
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam. pengembangan perangkat lunak.
+-Centralized Version Control System (CVCS)
+Contoh: Subversion (SVN), CVS
+Sistem ini menggunakan satu server pusat untuk menyimpan semua versi file. Setiap pengguna mengambil file dari server pusat dan menyimpan perubahan kembali ke sana. Kekurangan dari CVCS adalah jika server pusat bermasalah, maka akses ke proyek juga terganggu.
+-Distributed Version Control System (DVCS)
+Contoh: Git, Mercurial
+Sistem ini memungkinkan setiap pengguna memiliki salinan lengkap dari seluruh repository. Pengguna dapat bekerja secara offline, melakukan commit, dan mengelola versi secara lokal sebelum mengirimkan ke repository pusat. DVCS lebih fleksibel dan aman dibandingkan CVCS.
