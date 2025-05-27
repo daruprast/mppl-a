@@ -1,2 +1,23 @@
 Nama : Arham Athillah
 NIM : 23106050008
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya?
+- Kelebihan dari Metode Agile:
+1. Fleksibilitas dan Adaptabilitas
+2. Kolaborasi dan Komunikasi
+3. Pengiriman yang Lebih Cepat
+4. Kualitas Produk yang Lebih Baik
+5. Kepuasan Pelanggan yang Lebih Tinggi
+
+2. Apa tugas seorang scrum master dalam framework dalam framework scrum?
+- Tugas seorang Scrum Master dalam kerangka kerja Scrum adalah menjadi fasilitator dan pelatih yang membantu tim untuk memahami dan menerapkan prinsip-prinsip Scrum dengan efektif. Mereka bertanggung jawab untuk memastikan tim berkinerja optimal, menghapus penghambat, dan menciptakan lingkungan kerja yang mendukung
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+- WIP (Work In Progress) adalah jumlah tugas atau item yang sedang dikerjakan pada saat bersamaan. Ini merupakan indikator penting untuk mengelola alur kerja dan mencegah tim menjadi kelebihan beban. Batasan WIP membantu tim untuk fokus pada tugas yang sedang berlangsung dan meningkatkan efisiensi.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak?
+-Version Control System (VCS) adalah sistem yang digunakan dalam pengembangan perangkat lunak untuk mengelola perubahan terhadap kode sumber dari waktu ke waktu. Secara umum, VCS terbagi menjadi dua jenis utama, yaitu Centralized Version Control System (CVCS) dan Distributed Version Control System (DVCS): 
+1. Centralized Version Control System (CVCS)
+CVCS adalah sistem kontrol versi di mana seluruh versi kode dan riwayatnya disimpan pada satu server pusat. Pengembang harus terhubung ke server tersebut untuk mengambil salinan kode (checkout) dan mengunggah perubahan (commit). Sistem ini memudahkan pengelolaan dan kontrol terpusat, namun memiliki kelemahan jika server pusat mengalami gangguan—maka seluruh tim tidak dapat bekerja atau bahkan berisiko kehilangan data. Contoh CVCS yang populer adalah Subversion (SVN) dan CVS.
+2. Distributed Version Control System (DVCS)
+DVCS adalah sistem kontrol versi di mana setiap pengembang memiliki salinan lengkap dari repositori, termasuk seluruh riwayat perubahan. Proses commit dilakukan secara lokal, dan hanya perlu terhubung ke server saat melakukan sinkronisasi melalui push atau pull. Sistem ini lebih fleksibel karena memungkinkan pengembang bekerja secara offline dan memiliki cadangan otomatis dari repositori. DVCS juga lebih aman dan mendukung kolaborasi tim dengan lebih baik. Contoh paling umum dari DVCS adalah Git, yang saat ini menjadi standar industri dalam pengembangan perangkat lunak.
