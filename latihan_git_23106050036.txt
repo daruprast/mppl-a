@@ -1,0 +1,48 @@
+1. KELEBIHAN METODE AGILE DIBANDINGKAN YANG LAIN
+
+- Iteratif dan Inkremental
+  Pengembangan dilakukan dalam siklus pendek (sprint),
+  sehingga produk bisa terus berkembang secara bertahap.
+- Fleksibel terhadap perubahan
+  Perubahan kebutuhan di tengah proyek bisa langsung
+  diakomodasi tanpa harus mulai dari awal.
+- Kolaborasi tim lebih intens
+  Komunikasi rutin seperti daily stand-up meeting membuat
+  koordinasi antaranggota tim menjadi lebih baik.
+- Fokus pada kepuasan pelanggan
+  Pelanggan dilibatkan secara aktif dan rutin memberikan
+  feedback untuk setiap iterasi produk.
+- Time-to-market lebih cepat
+  Versi awal produk (Minimum Viable Product) bisa dirilis
+  lebih cepat untuk mendapatkan masukan dari pengguna.
+- Risiko kegagalan lebih rendah
+  Masalah terdeteksi lebih awal karena proses berjalan
+  secara bertahap dan transparan.
+
+
+2. APA TUGAS SEORANG SCRUM MASTER DALAM FRAMEWORK SCRUM
+   - Menjaga agar tim tetap fokus pada tujuan sprint.
+   - Menghilangkan hambatan (impediments) yang mengganggu kerja tim.
+   - Melindungi tim dari gangguan eksternal selama sprint berlangsung.
+   - Menjadi penghubung antara tim pengembang, Product Owner, dan stakeholder.
+   - Memastikan komunikasi berjalan lancar dan transparan.
+   - Mendorong tim untuk terus belajar, berkembang, dan meningkatkan proses kerja.
+   - Mendorong budaya kerja yang kolaboratif dan terbuka.
+
+
+3. APA YANG DIMAKSUD DENGAN WORK IN PROGRESS DALAM KANBAN
+- Jumlah tugas atau item kerja yang sedang dikerjakan pada waktu tertentu. Dalam papan Kanban, WIP adalah item yang ada di kolom "In Progress", "Doing", atau status sejenis (belum selesai, namun sedang dikerjakan).
+  Kanban menetapkan batas WIP (WIP Limit) untuk menghindari multitasking berlebihan dan mendorong penyelesaian tugas sebelum mengambil yang baru.
+
+
+4. SEBUTKAN DAN JELASKAN JENIS VERSION CONTROL SYSTEM YANG DIGUNAKAN DALAM PENGEMBANGA PERANGKAT LUNAK
+- Local version control
+  Sistem kontrol versi yang hanya menyimpan versi file
+  di komputer lokal pengembang.
+- Centralized version control
+  Merupakan version control yang semua file versi disimpan di satu server pusat.
+- Distributed version control
+  Merupakan version control yang setiap pengembang memiliki salinan lengkap dari seluruh repositori, termasuk histori versinya.
+
+
+
