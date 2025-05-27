@@ -1,0 +1,28 @@
+nama : Sultan Muhammad rafli
+nim  : 23106050015
+
+1. Metode Agile memiliki keunggulan dalam fleksibilitas dan adaptabilitas terhadap perubahan kebutuhan selama pengembangan. 
+   Agile menekankan kolaborasi intensif dengan klien melalui iterasi pendek, sehingga feedback dapat diperoleh secara berkelanjutan 
+   dan produk dapat disesuaikan dengan kebutuhan aktual pengguna. Pendekatan ini juga memungkinkan pengiriman nilai bisnis lebih cepat
+   karena fitur dapat dirilis secara bertahap, mengurangi risiko kegagalan proyek besar, dan meningkatkan kepuasan tim melalui komunikasi
+   yang lebih baik dan tanggung jawab yang terdistribusi.
+
+2. Scrum Master berperan sebagai fasilitator dan pelindung proses Scrum dalam tim pengembangan. Tugas utamanya meliputi memastikan tim
+ mengikuti praktik dan nilai-nilai Scrum, menghilangkan hambatan yang menghalangi produktivitas tim, memfasilitasi berbagai ceremony 
+ Scrum seperti daily standup, sprint planning, dan retrospective, serta melindungi tim dari gangguan eksternal. Scrum Master juga 
+ bertanggung jawab untuk membimbing tim dalam penerapan prinsip-prinsip Agile dan membantu organisasi memahami serta mengadopsi 
+ metodologi Scrum dengan benar.
+
+
+3. WIP atau Work in Progress dalam Kanban merujuk pada batasan jumlah maksimum pekerjaan yang dapat berada dalam setiap tahap alur kerja
+  secara bersamaan. Konsep ini bertujuan untuk mengoptimalkan aliran kerja dengan mencegah penumpukan tugas di satu tahap, mengurangi
+  multitasking yang tidak produktif, dan mengidentifikasi bottleneck dalam proses. Dengan membatasi WIP, tim dapat fokus menyelesaikan 
+  pekerjaan yang sudah dimulai sebelum mengambil tugas baru, sehingga meningkatkan kualitas output dan mempercepat delivery time secara
+  keseluruhan.
+
+4.Terdapat tiga jenis utama version control system dalam pengembangan perangkat lunak. 
+ Local Version Control menyimpan riwayat perubahan di komputer lokal, cocok untuk proyek individual namun tidak mendukung kolaborasi. 
+ Centralized Version Control seperti SVN menggunakan server pusat untuk menyimpan semua versi file, memungkinkan kolaborasi tim tetapi 
+ memiliki single point of failure. 
+ Distributed Version Control seperti Git memberikan salinan lengkap repository di setiap komputer pengembang, menawarkan fleksibilitas maksimum,
+ dukungan kolaborasi yang kuat, dan redundansi data yang tinggi, menjadikannya pilihan paling populer untuk proyek modern.
