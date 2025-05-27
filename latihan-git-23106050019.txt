@@ -1,2 +1,23 @@
 Nama : Zahra Zakila Anindha Rahmanti
 NIM : 23106050019
+
+1. Sebutkan kelebihan metode agile dibandingkan dengan metode pengembangan perangkat lunak lainnya ?
+Kelebihan Metode Agile: Fleksibilitas tinggi dalam menghadapi perubahan requirements,Kolaborasi tim dan komunikasi dengan client lebih baik, Feedback loop yang cepat, Risiko project failure lebih rendah karena evaluasi berkala
+
+2. apa tugas seorang scrum master dalam framewoek scrum?
+-Mengatur jalannya meeting singkat setiap hari, perencanaan sprint, dan evaluasi hasil kerja tim
+-Membantu menyelesaikan kendala atau hambatan yang membuat tim tidak bisa bekerja dengan lancar
+-Memastikan tim mengikuti cara kerja Scrum yang sudah ditetapkan
+-Melatih anggota tim agar bisa bekerja mandiri dan saling membantu dalam berbagai tugas
+
+3.apa yang dimaksud dengan WIP (Work in Progres) di dalam kanban?
+WIP adalah batasan jumlah maksimum task yang boleh dikerjakan secara bersamaan di setiap kolom/tahap dalam Kanban board. Tujuannya untuk mencegah multitasking berlebihan, meningkatkan fokus, dan mempercepat flow pekerjaan.
+
+
+4.Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak? 
+
+1. Local VCS - Menyimpan versi file di database lokal (contoh: RCS)
+
+2. Centralized VCS - Server terpusat menyimpan semua versi (contoh: SVN, CVS)
+
+3. Distributed VCS - Setiap developer memiliki copy lengkap repository (contoh: Git, Mercurial, Bazaar)
