@@ -1,2 +1,35 @@
 Nama    : Ahmad Zamroni Trikarta
 NIM     : 23106050017
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya
+Jawab:
+- Fleksibilitas tinggi sehingga dapat mengakomodasi perubahan requirements
+- Feedback cepat dengan iterasi pendek (1-4 minggu) dengan review berkala
+- Delivery lebih cepat sehingga menghasilkan working software secara incremental
+- Kolaborasi aktif dengan customer sepanjang proses
+- Kualitas lebih baik melalui continuous testing
+- Risk lebih rendah karena masalah terdeteksi lebih awal
+
+2. Apa tugas seorang scrum master dalam framework scrum
+Jawab:
+- Memfasilitasi Scrum events (daily standup, sprint planning, review, retrospective)
+- Menghilangkan impediments yang menghalangi tim
+- Melindungi tim dari gangguan eksternal
+- Coaching tim dalam menerapkan Scrum practices
+- Membantu Product Owner dalam backlog management
+- Change agent untuk adoptsi Scrum di organisasi
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+Jawab:
+WIP adalah batasan jumlah maksimum item yang boleh berada dalam setiap kolom Kanban board secara bersamaan, dengan tujuan mencegah overcommitment, meningkatkan fokus tim, engidentifikasi bottleneck, mengurangi lead time.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak
+Jawab:
+1. Local Version Control Systems
+Sistem version control yang menyimpan semua perubahan file dalam database lokal di komputer pengguna. Contohnya RCS yangCocok untuk proyek personal namun tidak mendukung kolaborasi dan rentan kehilangan data.
+
+2. Centralized Version Control Systems (CVCS)
+Sistem version control yang menggunakan satu server pusat untuk menyimpan semua versioned files, dimana client melakukan checkout file dari server tersebut, Contohnya SVN, CVS, dengan beberapa keunggulan yaitu centralized management dan access control dan kekurangannya single point of failure dan ketergantungan network.
+
+3. Distributed Version Control Systems (DVCS)
+Sistem version control dimana setiap client memiliki complete repository dengan full history, tidak bergantung pada central server untuk operasi sehari-hari. Contohnya Git, Mercurial. dimana keunggulannya no single point of failure, offline capabilities, fast operations, dan flexible workflows. Git itu industry standard dengan ecosystem kuat.
