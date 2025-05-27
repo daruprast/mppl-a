@@ -11,3 +11,12 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 4. **Lakukan perubahan**, lalu `commit`
 5. **Push ke fork Anda**
 6. **Buat Pull Request (PR)** dari GitHub
+
+
+
+
+
+
+## FORKING BERHASIL!
+## 23106050036!
+## MATUR NUWUN
