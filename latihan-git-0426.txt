@@ -1,2 +1,6 @@
 Nama : Daru Prasetyawan
 NIM : 0426
+
+
+1.	Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+    - 
