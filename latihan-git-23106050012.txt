@@ -1,2 +1,12 @@
 Nama : Arbath Abdurrahman
 NIM  : 23106050012
+
+1. Agile sangat fleksibel untuk pengembangan perangkat lunak cocok untuk proyek yang berubah-ubah menekankan pada koleborasi antar tim karena metode agile dapat menerima perubahan ketika sedang menjalankan project sehingga perangkat lunak cepat untuk deployment setelah testing
+
+2. Scrum master bertugas memastikan agar proses scrum dijalankan dengan benar, berkomunikasi dengan produc owner untuk menyusun backlog, membantu developer dari segala hambatan,dan menyusun sprint planing 
+
+3. WIP digunakan untuk mengatur batasan kerja yang diselesaikan tim agar tidak overwork sehingga berdampak buruk pada produk yang dikembangkan dan sebagai tracking progres pengembangan
+
+4.  Local : disimpan di local komputer jadi hanya pemilik komputer saja yang dapat melakukan perubahan
+    Central : disimpan di satu server pusat semua bisa melakukan perubahan tetapi harus terhubung di server pusat
+    Distributed : di distribusikan ke semua tim jadi setiap orang akan memiliki salinan proyek yang lengkap sering menggunakan github/gitlab
