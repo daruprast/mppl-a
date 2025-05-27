@@ -18,5 +18,4 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 
 
 ## FORKING BERHASIL!
-## 23106050036!
-## MATUR NUWUN
+## 23106050036
