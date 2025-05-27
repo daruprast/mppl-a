@@ -1,0 +1,20 @@
+NAMA : SIRLY SHAIRA NAJIHA
+NIM : 23106050003
+
+1. sebutkan kelebihan metode agile dibangdingkan dengan metode pengembangan perangkat lunak lainnya?
+
+2. apa tugas seorang scrum master dalam framework scrum
+
+3. apa yang dimaksud dengan WIP di dalam kanban
+
+4. sebutkan dan jelaskan jenis verison control system yang digunakan dalam pengembangan perangkat lunak
+
+
+jawab 
+1. Fleksibel terhadap perubahan, Pengembangan cepat dan iteratif, Kolaborasi tim dan klien lebih intensif, Masukan pengguna diterima lebih awal dan sering
+2. Membimbing tim Scrum agar mengikuti prinsip Scrum, Menghilangkan hambatan yang mengganggu kerja tim, Memfasilitasi event Scrum seperti sprint planning dan daily stand-up
+3. WIP (Work In Progress) dalam Kanban adalah jumlah maksimum tugas yang boleh dikerjakan secara bersamaan di setiap tahap proses, untuk menghindari penumpukan kerja dan meningkatkan efisiensi alur kerja.
+4. Jenis Version Control System (VCS):
+    -Local VCS: Menyimpan versi file hanya di komputer lokal. Contoh: RCS.
+    -Centralized VCS (CVCS): Menyimpan semua versi di server pusat, tim mengakses dan bekerja dari satu tempat. Contoh: Subversion (SVN).
+    -Distributed VCS (DVCS): Setiap pengembang memiliki salinan lengkap repositori, memungkinkan kerja offline. Contoh: Git, Mercurial.
