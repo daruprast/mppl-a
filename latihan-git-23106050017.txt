@@ -1,5 +1,6 @@
 Nama    : Ahmad Zamroni Trikarta
 NIM     : 23106050017
+Kelas   : MPPL A
 
 1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya
 Jawab:
