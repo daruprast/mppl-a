@@ -1,0 +1,38 @@
+Nama = Nadine Riskia windi Paramita
+NIM = 23106050022
+
+
+1. Sebutkan kelebihan metode agile dibandingkan dengan metode pengembangan perangkat lunak lainnya!
+Agile memungkinkan pengembangan perangkat lunak secara iteratif dan fleksibel. Kelebihan utamanya adalah 
+kemampuannya beradaptasi terhadap perubahan kebutuhan klien, mendorong kolaborasi yang erat antara tim 
+pengembang dan stakeholder, serta menghasilkan produk yang dapat diuji dan dirilis dalam siklus pendek 
+(sprint). Hal ini meningkatkan kualitas produk dan kepuasan pengguna akhir.
+
+2. Apa tugas seorang scrum master dalam framework scrum?
+Scrum Master berperan sebagai fasilitator bagi tim Scrum. Ia memastikan bahwa proses Scrum dijalankan dengan 
+benar, membantu tim mengatasi hambatan atau gangguan (impediments), memfasilitasi pertemuan rutin seperti sprint 
+planning, daily scrum, dan sprint review, serta melindungi tim dari gangguan eksternal agar fokus pada pekerjaan 
+sprint.
+
+3. Apa yang dimaksud dengan WIP (Work in Progress) di dalam Kanban?
+WIP adalah jumlah maksimum pekerjaan yang diperbolehkan sedang dalam proses pada satu waktu dalam sistem Kanban. 
+Pembatasan WIP bertujuan untuk menghindari penumpukan tugas, meningkatkan efisiensi, mempercepat aliran kerja, 
+dan membantu tim fokus menyelesaikan tugas sebelum mengambil yang baru.
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak!
+Jenis Version Control System (VCS):
+-Centralized Version Control System (CVCS): Semua versi kode disimpan di satu server pusat. Setiap pengembang 
+bekerja dengan versi yang sama dan harus terhubung ke server (contoh: Subversion/SVN). Kelemahannya, jika server 
+rusak, seluruh data bisa hilang.
+
+-Distributed Version Control System (DVCS): Setiap pengembang memiliki salinan lengkap dari seluruh repositori, 
+termasuk riwayat perubahan (contoh: Git). Ini memungkinkan pengembangan secara offline dan lebih aman karena data 
+tidak hanya ada di satu tempat.
+
+
+
+
+
+
+
+
