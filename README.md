@@ -7,7 +7,7 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 2. **Clone** ke lokal Anda:  
    `git clone https://github.com/username/repo-name.git`
 3. **Buat branch baru** untuk perubahan Anda:  
-   `git checkout -b fitur-anda`
+   `git checkout -b branch-anda`
 4. **Lakukan perubahan**, lalu `commit`
 5. **Push ke fork Anda**
 6. **Buat Pull Request (PR)** dari GitHub
