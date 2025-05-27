@@ -1,0 +1,26 @@
+Nama = Fahalliza Nastitie Dewi
+NIM = 23106050030
+
+
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkar lunak lainnya.
+fleksibilitas terhadap perubahan kebutuhan, kolaborasi yang erat antara tim dan pengguna, serta pengiriman 
+produk yang lebih cepat dan bertahap melalui iterasi (sprint). Dengan pendekatan ini, feedback dari pengguna 
+bisa langsung diakomodasi, sehingga produk akhir lebih sesuai dengan kebutuhan dan berkualitas lebih baik dibanding 
+metode tradisional seperti Waterfall yang bersifat kaku dan linier
+
+2. Apa tugas seorang scrum master datam framework scrum?
+Scrum Master bertugas memastikan tim mengikuti prinsip Scrum, menghilangkan hambatan (impediments), 
+memfasilitasi komunikasi, dan membantu tim tetap fokus pada tujuan sprint.
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban?
+WIP adalah jumlah tugas yang sedang dikerjakan pada satu waktu. Dalam Kanban, WIP digunakan untuk mengontrol 
+jumlah pekerjaan agar tidak berlebihan dan menjaga alur kerja tetap stabil dan efisien. Dengan membatasi WIP, 
+tim dapat fokus menyelesaikan tugas satu per satu dan menghindari multitasking yang bisa menurunkan produktivitas
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam. pengembangan perangkat lunak.
+- Centralized VCS (CVCS): Sistem ini menyimpan semua versi kode di satu server pusat. Developer harus terhubung ke 
+server untuk melakukan commit atau update. Contoh: Subversion (SVN)
+
+- Distributed VCS (DVCS): Setiap developer memiliki salinan lengkap dari seluruh repository, sehingga bisa bekerja secara 
+offline. Perubahan dapat dibagikan ke tim melalui push dan pull. Contoh: Git dan Mercurial.
