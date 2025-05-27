@@ -1,0 +1,20 @@
+Nama: Radipta Basri Wijaya
+NIM: 23106050035
+
+1. Kelebihan Agile dibanding lainnya:
+- Responsif terhadap perubahan kebutuhan.
+- Iterasi singkat dengan deliverable fungsional tiap sprint.
+- Kolaborasi erat antara tim dan stakeholder.
+- Risiko lebih terkendali lewat feedback berkala.
+
+2. Tugas Scrum Master:
+- Fasilitator proses Scrum.
+- Menghapus hambatan (impediments) agar tim bisa fokus.
+- Menjaga agar praktik dan nilai Scrum dijalankan..
+- Menjadi penghubung antara tim, Product Owner, dan luar
+
+3. WIP (Work In Progress) di Kanban adalah batasan jumlah item kerja yang boleh “sedang dikerjakan” sekaligus, untuk mencegah multitasking berlebih dan bottleneck.
+
+4. Jenis Version Control System:
+- Centralized VCS (misal: SVN, CVS): satu server pusat menyimpan history, klien checkout dari sana.
+- Distributed VCS (misal: Git, Mercurial): setiap developer punya salinan penuh history; merge dan sync antar repo.
