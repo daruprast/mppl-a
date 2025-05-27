@@ -1,2 +1,11 @@
 Nama: Ahmad Huda Wattuqa
 NIM: 23106050068
+
+Asesmen 27/05/2025
+
+1. jauh lebih fleksibel terhadap perubahan yang mungking terjadi di tengah-tengah pengembangan dan cenderung lebih cepat proses
+pengembangannya.
+2. menjaga/mengawasi/memastikan proses pengembangan perangkat lunak ketika menggunakan framework scrum tetap mematuhi prosedur scrum.
+3. WIP dalam kanban adalah jumlah pekerjaan yg sedang dikerjakan dalam suatu waktu tertentu dalam proses pengembangan.
+4. Centralized Version Control = menggunakan server terpusat nanti developer lain mencheckout dari servernya tersebut. contoh = SVN
+Distributed Version Control = setiap developer punya salinan lengkap repository di lokalnya cara kerjanya clone, add, commit, push. contoh = git
