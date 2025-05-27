@@ -3,3 +3,8 @@ hello world
 Nama   : Agung Nugraha
 Nim    : 23106050011
 Matkul : MPPL 
+
+1. Metode Agile memiliki kelebihan dibanding metode lain karena lebih fleksibel terhadap perubahan, memungkinkan feedback cepat, mendorong kolaborasi tim, mendukung pengiriman perangkat lunak secara bertahap, serta meningkatkan kualitas dan kepuasan pengguna.
+2. Scrum Master bertugas memastikan proses Scrum berjalan dengan baik, membantu tim mengatasi hambatan, menjaga disiplin dalam praktik Scrum, serta menjadi penghubung antara tim pengembang dan Product Owner.
+3. WIP (Work in Progress) dalam Kanban adalah batas jumlah pekerjaan yang sedang berlangsung, yang berguna untuk menghindari multitasking berlebihan dan meningkatkan efisiensi kerja.
+4. Jenis version control system yang digunakan dalam pengembangan perangkat lunak ada dua, yaitu centralized VCS seperti SVN yang menyimpan semua versi di satu server pusat, dan distributed VCS seperti Git yang memungkinkan setiap developer memiliki salinan penuh dari repositori.
