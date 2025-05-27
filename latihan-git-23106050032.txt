@@ -1,2 +1,15 @@
 Nama: Ariya Duta;
 NIM: 23106050032;
+
+1.  - fleksible dalam menambahkan fitur baru atau memperbaiki bug karena sistem iterasinya.
+    - client dapat terlibat secara aktif dalam pengembangan dengan feedback sehingga hasil sesuai harapan
+2. scrum master bertugas untuk membimbing tim agar praktik scrum berjalan dengan baik. scrum master tidak seperti proyek manager.
+3. WIP adalah sejumlah tugas yang sedang dikerjakan dalam table kanban. kanban biasanya ada todo, in_progress dan done. WIP adalah task yang ada dalam in_progress
+4.  - GIT
+        yaitu version control yang setiap pengguna memiliki salinan repository di local, sehingga tidak tergantung sepenuhnya pada server.
+    - Subversion
+        yaitu version control yang menyimpan semua versi file di server sehingga pengguna harus terkoneksi ke server untuk melakukan operasi
+    - Mercurial
+        mirip dengan GIT namun tampilan lebih sederhana
+    - CVS
+        merupakan version control yang paling tua yang digunakan untuk melacak perubahan file
