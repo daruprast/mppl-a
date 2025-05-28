@@ -1,0 +1,19 @@
+nama : Ahmad Musthofa Aslam
+nim : 23106050044
+
+kelebihan angile
+karena metode angile flesksibel untuk perubahan, cepat untuk menghasilkan product, tim mudah berkomunsikasi,melibatkan stakeholder atau user,sehingga pengembangan perangkat lunak lebih leluasa
+
+tugas scrum master
+sebagai manajer pengawas dalam sprint perangkat lunak, menjadi fasilitator proyek , membantu meningkatkan kolaborasi tim
+
+maksud wip
+jumlah tugas yang sedang dikerjakan pada satu waktu oleh tim atau individu.
+
+sebutkan jenis versio control dalam sdlc
+1. local version control system
+menyimpan file secara local di masing masing komputer developer, setiap perubahan disimpan di directori local
+2. centralized version control system
+semua file dan riwayat perubahan disimpan di server pusat, developer harus terhubung ke server untuk mengambil atau mengirim perubahan.
+3. distributed version control system
+setiap developer memiliki salinan lengkap repositori,perubahan bisa dilakukan lokal, lalu disinkronkan ke server bersama. contoh git
