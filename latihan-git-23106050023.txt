@@ -1,0 +1,30 @@
+NAMA	: ZAINUL AKMAL ATHAULLAH
+NIM	: 23106050023
+MATKUL	: MPPL A
+
+1. kelebihan metode agile:
+	a. responsif terhadap perubahan. jika ada ditengah proyek, agile masih mendukung perubahan kebutuhan user.
+	b. iteratif dan inkramental. dikembangkan secara bertahap, tiap hasil dapat diuji dan dapat disempurnakan secara berkelanjutan.
+	c. kolaborasi tinggi. komunikasi intensif antara tim pengembang dan stakeholder.
+	d. kepuasan pelanggan. pelanggan dilibatkan terus menerus dan mendapat hasil lebih cepat.
+	e. risiko lebih kecil. karena pengembangan dilakukan per-print, kesalahan bisa terdeteksi lebih awal.
+2. tugas scrum master dalam framework scrum:
+	a. fasilitator tim scrum. membantu tim memahami dan menjalankan praktik scrum.
+	b. menghilangkan hambatan (impediments). mencari solusi dari masalah yang menghambat produktivitas tim.
+	c. melindungi tim. agar tim tidak terganggu dari gangguan external selama sprint, dan memastikan proses berjalan sesuai scrum 		   framework.
+	d. pelatih agile. membantu tim dan organisasi dalam mengadopsi prinsip agile/scrum.
+3. yang dimaksud WIP dalam Kanban, yaitu banyaknya tugas yang sedang dikerjakan/on progress.
+   Kanban membatasi jumlah WIP karena:
+	a. menghindari multitasking berlebihan.
+	b. meningkatkan fokus dan efiensi.
+	c. mempercepat workflow.
+	d. menghindari penumpukan tugas di satu tahap.
+4. jenis version control system yang digunakan dalam pengembangan PL:
+	a. Centralized VCS:
+	   Contoh: Subversion (SVN), CVS
+	   Semua developer terhubung ke satu server pusat. Jika server bermasalah, semua pekerjaan terhambat.
+
+	b. Distributed VCS (digunakan Agile & modern dev):
+	   Contoh: Git
+	   Setiap developer memiliki salinan penuh dari repositori. Dapat bekerja secara offline dan melakukan commit lokal.
+GitHub, GitLab, Bitbucket adalah layanan hosting untuk Git.
