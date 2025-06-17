@@ -1,0 +1,46 @@
+Saya Faris Jihadi Hanif Lubis dengan NIM 23106050031
+ Sedang belajar Git pada matkul MPPL di kelas A
+
+SOAL:
+1. sebutkan kelebihan metode agile dibandingkan dengan metode perangkat lunak lainnya
+2. apa tugas seorang scrum master dalam framework scrum
+3 apa yang dimaksud dengan WIP (work in progress di dalam kanban
+4. Sebutkan dan jelaskan jenis version control system yang digunakan pengembangan perangkat lunak
+JAWAB:
+Berikut jawaban singkat untuk latihan MPPL Anda:
+
+ 1. Kelebihan Metode Agile
+- Fleksibilitas tinggi - mudah beradaptasi dengan perubahan requirement
+- Komunikasi intensif dengan client dan tim
+- Delivery cepat - produk dirilis dalam iterasi pendek
+- Feedback berkelanjutan dari stakeholder
+- Kualitas lebih baik karena testing dilakukan sepanjang development
+
+ 2. Tugas Scrum Master
+- Fasilitator - memimpin daily standup, sprint planning, retrospective
+- Penghilang hambatan - mengatasi blocker yang dialami tim
+- Coach - membantu tim memahami dan menerapkan Scrum
+- Pelindung tim - menjaga tim dari gangguan eksternal
+- Penjaga proses - memastikan Scrum framework dijalankan dengan benar
+
+3. WIP (Work in Progress) di Kanban
+WIP adalah batasan jumlah task yang boleh dikerjakan secara bersamaan dalam setiap kolom/tahap di Kanban board. Tujuannya untuk:
+- Mencegah multitasking berlebihan
+- Meningkatkan fokus tim
+- Mengidentifikasi bottleneck dalam proses
+
+4. Jenis Version Control System
+1. Local VCS
+- Menyimpan history di komputer lokal
+- Contoh: RCS (Revision Control System)
+
+2. Centralized VCS (CVCS)
+- Satu server pusat menyimpan semua versi
+- Client checkout file dari server
+- Contoh: SVN, CVS
+
+3. Distributed VCS (DVCS)
+- Setiap client punya copy lengkap repository
+- Bisa bekerja offline
+- Contoh: Git, Mercurial, Bazaar
+
