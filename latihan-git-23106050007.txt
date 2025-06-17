@@ -1,0 +1,16 @@
+Nama : Vina Sopyamuliana
+Nim : 231060500007
+latihan Soal 
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya.
+     Metode Agile lebih fleksibel dan adaptif. Perubahan kebutuhan bisa langsung ditanggapi tanpa harus menunggu proyek selesai. Komunikasi antara tim dan pengguna juga lebih intens, jadi hasilnya lebih sesuai dengan kebutuhan pengguna.
+2. Apa tugas seorang scrum master dalam framework scrum
+   Scrum Master bertugas memfasilitasi proses Scrum dalam tim. Dia memastikan tim bekerja sesuai prinsip Scrum, menghilangkan hambatan (impediments), dan membantu tim tetap fokus agar sprint berjalan lancar.
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+   WIP adalah jumlah pekerjaan yang sedang dikerjakan saat ini. Di Kanban, WIP biasanya dibatasi agar tim tidak kewalahan dan kualitas kerja tetap terjaga.
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak.
+    Centralized (terpusat): Semua versi tersimpan di satu server. Contohnya: Subversion (SVN).
+    Distributed (terdistribusi): Setiap orang punya salinan lengkap repositori. Contohnya: Git. Ini lebih fleksibel karena bisa kerja offline dan lebih aman kalau server utama bermasalah.
+
+
+    maaf pak kemarin leptopnya bermasalah jadi baru mengerjakan sekarang
+    
