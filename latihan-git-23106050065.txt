@@ -1,0 +1,17 @@
+nama : Shofy naila 
+nim : 23106050065
+
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkar lunak lainnya
+    Fleksibel terhadap perubahan, pengembangan iteratif dan cepat, kolaborasi tim lebih baik
+
+2. Apa tugas seorang scrum master datam framework scrum
+    memfasilitasi proses scrum, menjaga tim tetap fokus dan produktif 
+
+3. Apa yang dimaksud dengan WIP (Work In Progress) di dalam Kanban
+    jumlah maksimal pekerjaan yang dikerjakan pada satu waktu (bertujuan mencegah overload dan menjaga alur kerja efisien)
+
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak
+    Centralize VCS: semua versi disimpan di satus server pusat
+    Distributed VCS: setiap developer punya salinan lengkap repositori
+    kelebihan VCS: bisa bekerja offline, mudah kolaborasi, pencatatan lebih lengkap
