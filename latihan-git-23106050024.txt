@@ -1,0 +1,13 @@
+Nama: Chairul 'Azmi Zuhdi Pramono
+NIM: 23106050024
+
+1. Sebutkan kelebihan metode Agile dibandingkan dengan metode pengembangan perangkat lunak lainnya
+   - Karena metode agile lebih fleksibel untuk proyek yang kebutuhannya berubah, progres berjalan secara bertahap, produk versi lite bisa rilis lebih cepat, dan stakeholder aktif terlibat
+2. Apa tugas seorang scrum master dalam framework scrum
+   - Mengawasi jalannya sebuah sprint dan menjadi penunjang kerja sama tim sekaligus menyediakan penjadwalan aktivitas scrum.
+3. Apa yang dimaksud dengan WIP di dalam kanban
+   - Jumlah pekerjaan yang sedang diselesaikan dalam satu waktu kerja, sehingga beban kerja dalam satu waktu kerja tetap terkontrol
+4. Sebutkan dan jelaskan jenis version control system yang digunakan dalam pengembangan perangkat lunak
+   - Local Version Control System: File disimpan secara lokal di perangkat setiap user sehingga kolaborasi sulit dilakukan
+   - Centralized Version Control System: File dan histori perubahan disimpan di satu server bersama sehingga ketergantungan dengan server
+   - Distributed Version Control System: File dan histori disimpan menggunakan reference dan dapat disimpan secara lokal secara sinkron, namun lebih kompleks
